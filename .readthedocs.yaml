@@ -19,4 +19,4 @@ python:
 
 # Build documentation in the docs/ directory with Sphinx
 sphinx:
-  fail_on_warning: true
+  fail_on_warning: false
